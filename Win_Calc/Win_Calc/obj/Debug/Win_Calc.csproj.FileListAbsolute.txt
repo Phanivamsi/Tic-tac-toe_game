@@ -1,0 +1,10 @@
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe.config
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.exe
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\bin\Debug\Win_Calc.pdb
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csprojResolveAssemblyReference.cache
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Form1.resources
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Properties.Resources.resources
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.csproj.GenerateResource.Cache
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.exe
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.pdb
+c:\users\phanivamsi.g\documents\visual studio 2017\Projects\Win_Calc\Win_Calc\obj\Debug\Win_Calc.Main.resources
