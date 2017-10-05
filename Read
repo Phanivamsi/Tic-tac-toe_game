@@ -1,0 +1,14 @@
+Hi all ..this is a game where u can have two players.
+first who starts the game will be 'O'
+the other will be 'X'
+while playing in the matrix of 3*3 ,if there are three consecutive symbols either horizontally or vertically or diagonally the game stops and declare winner
+
+
+now the main file is program.cs
+where main function is present
+it calls Main.cs
+from Main.cs it goes to Form1.cs
+here the code for the game is present
+
+
+that's all ..thank you ..you can modify this game..i will be very happy if u come up with good ideas
